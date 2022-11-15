@@ -1,0 +1,10 @@
+<textos>
+    <caixa id='menu_principal'>
+            <start>"começar"</start>
+            <config>"opçoes"</config>
+            <about>"Estamos trabalhando nisso"</about>
+    </caixa>
+    <caixa id='001'>
+        
+    </caixa>
+</textos>

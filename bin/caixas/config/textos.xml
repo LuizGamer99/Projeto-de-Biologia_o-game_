@@ -1,11 +1,10 @@
 <textos>
-    <caixa>
-        <menu_principal>
+    <caixa id='menu_principal'>
             <start>"começar"</start>
             <config>"opçoes"</config>
-        </menu_principal>
+            <about>"Estamos trabalhando nisso"</about>
     </caixa>
-    <caixa>
+    <caixa id='001'>
         
     </caixa>
 </textos>
